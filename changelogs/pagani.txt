@@ -1,0 +1,18 @@
+This is Android 17 with July 2026 security patches
+
+Notes:
+--------------------
+- LineageOS-based source. Signed build.
+- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
+
+
+Rom changes:
+--------------------
+- First test build Android 17
+
+--------------------
+Attention is Importent!!!
+Внимание важно!!!
+--------------------
+- You may need a clean installation! (wipe data)
+- Возможно потребуется чистая установка! (wipe data)
