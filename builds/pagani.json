@@ -3,13 +3,13 @@
     {
       "maintainer": "Verevka",
       "oem": "OnePlus",
-      "device": "13T",
-      "filename": "EvolutionX-17.0-20260718-pagani-12.0-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/oneplus-pagani/files/Evolution-X_13T/17.0-Beta/EvolutionX-17.0-20260718-pagani-12.0-Unofficial.zip/download",
-      "timestamp": 1784365319,
-      "md5": "15e9d6cff8c42a9d3e932e8d977668ae",
-      "sha256": "712381ddd65c51f28951a81245e8edf9e955205e884090cfc07460574724c6db",
-      "size": 4081380882,
+      "device": "pagani / 13T",
+      "filename": "EvolutionX-17.0-20260722-pagani-12.0-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/oneplus-pagani/files/Evolution-X_13T/EvolutionX-17.0-20260722-pagani-12.0-Unofficial.zip/download",
+      "timestamp": 1784720256,
+      "md5": "4fa5e3809a05d160d295a5b54725b3ac",
+      "sha256": "900b06b803b43bd2a5f10568ee149f454122da58d8668f85b32df8074f1a92b2",
+      "size": 4038675168,
       "version": "12.0",
       "buildtype": "user",
       "forum": "",
@@ -20,7 +20,11 @@
       "initial_installation_images": [
         "boot",
         "dtbo",
+        "recovery",
         "vendor_boot"
+      ],
+      "extra_images": [
+        "init_boot"
       ]
     }
   ]
