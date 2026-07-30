@@ -3,6 +3,11 @@ This is Android 17 QPR0 with August 2026 security patches
 CAUTION!!! DIRTY FLASH FROM ANDROID 16
 MAKE A BACKUP NOW IF YOU WANT TO MOVE TO THIS BUILD
 
+Donate:
+==============================
+For a beer for the developer-
+Donate - https://www.tbank.ru/cf/4dhT1fXKKuF
+
 Notes:
 ==============================
 - LineageOS-based source. crDroid trees. Signed build.
@@ -11,17 +16,17 @@ Notes:
 
 Device changes:
 ==============================
-Add libaudiobase dependency to libwfdmmsrc_system
-Patch libwfdservice to load android.media.audio.common.types-V5-cpp
-Patch wfdservice with libaudiobase
-Upstream kernel changes
-KernelSU-Next 3.1.0
+- Add libaudiobase dependency to libwfdmmsrc_system
+- Patch libwfdservice to load android.media.audio.common.types-V5-cpp
+- Patch wfdservice with libaudiobase
+- Upstream kernel changes
+- KernelSU-Next 3.1.0
 
 27.07.26:
 ==============================
-Fix fingerprint
-Fix LTPO
+- Fix fingerprint
+- Fix LTPO
 
-27.07.26:
+30.07.26:
 ==============================
-Fix brightness(?)
+- Fix brightness(?)
