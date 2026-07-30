@@ -1,4 +1,4 @@
-This is Android 17 QPR0 with July 2026 security patches
+This is Android 17 QPR0 with August 2026 security patches
 
 CAUTION!!! DIRTY FLASH FROM ANDROID 16
 MAKE A BACKUP NOW IF YOU WANT TO MOVE TO THIS BUILD
@@ -20,4 +20,8 @@ KernelSU-Next 3.1.0
 27.07.26:
 ==============================
 Fix fingerprint
-Fix LTPO (?)
+Fix LTPO
+
+27.07.26:
+==============================
+Fix brightness(?)
