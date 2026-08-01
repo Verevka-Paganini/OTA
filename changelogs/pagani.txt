@@ -29,4 +29,9 @@ Device changes:
 
 30.07.26:
 ==============================
-- Fix brightness(?)
+- Fix brightness
+
+01.08.26:
+==============================
+- sm8750-common: Update input boost
+- kernel: drm/oplus: add hysteresis to PWM DBV threshold to prevent LDO overcurrent alarms
