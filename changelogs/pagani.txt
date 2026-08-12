@@ -35,3 +35,9 @@ Device changes:
 ==============================
 - sm8750-common: Update input boost
 - kernel: drm/oplus: add hysteresis to PWM DBV threshold to prevent LDO overcurrent alarms
+
+12.08.26
+==============================
+- Drop kernelsu-next
+- update kernel source
+- I’m tired of writing
