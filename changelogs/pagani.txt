@@ -41,3 +41,8 @@ Device changes:
 - Drop kernelsu-next
 - update kernel source
 - I’m tired of writing
+
+13.08.26
+==============================
+- Update blobs 16.0.10.500
+- Fix dt2w
