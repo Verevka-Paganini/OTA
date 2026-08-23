@@ -46,3 +46,7 @@ Device changes:
 ==============================
 - Update blobs 16.0.10.500
 - Fix dt2w
+
+23.08.26
+==============================
+- Fix autorotation crash
