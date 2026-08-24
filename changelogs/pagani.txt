@@ -50,3 +50,8 @@ Device changes:
 23.08.26
 ==============================
 - Fix autorotation crash
+
+24.08.26
+==============================
+- Change minimal brightness level
+- Update Evo-x source
