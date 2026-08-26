@@ -55,3 +55,8 @@ Device changes:
 ==============================
 - Change minimal brightness level
 - Update Evo-x source
+
+26.08.26
+==============================
+- Fix some bugs
+- Add GoogleCamera
