@@ -61,7 +61,7 @@ Device changes:
 - Fix some bugs
 - Add GoogleCamera
 
-05.08.26
+05.09.26
 ==============================
 - UPDATE sources
 - Test: Add OplusCamera ( thanks @RobertGarciaa )
